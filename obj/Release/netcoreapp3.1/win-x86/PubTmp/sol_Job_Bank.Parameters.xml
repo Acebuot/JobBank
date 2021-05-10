@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="solJobBank2020MahalKoNanayKo" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Xoe\\Desktop\\New\ folder\\Luiz_Enterprise\\Luiz_Enterprise\\sol_Job_Bank_Part4ABC\\obj\\Release\\netcoreapp3\.1\\win-x86\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
